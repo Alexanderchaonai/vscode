@@ -1,0 +1,7 @@
+# Build artifacts / 编译产物
+*.exe
+*.o
+*.out
+
+# VS Code Code Runner temp files / VS Code Code Runner 临时文件
+tempCodeRunnerFile.*
